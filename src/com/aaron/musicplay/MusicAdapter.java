@@ -1,6 +1,8 @@
-package com.example.music;
+package com.aaron.musicplay;
 
 import java.util.List;
+
+import com.example.music.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

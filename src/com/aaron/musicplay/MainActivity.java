@@ -1,4 +1,4 @@
-package com.example.music;
+package com.aaron.musicplay;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -29,7 +29,8 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
-import com.example.music.MusicService.MyBinder;
+import com.aaron.musicplay.MusicService.MyBinder;
+import com.example.music.R;
 
 public class MainActivity extends Activity {
 

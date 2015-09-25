@@ -1,4 +1,4 @@
-package com.example.music;
+package com.aaron.musicplay;
 
 public class MusicInfo {
 
